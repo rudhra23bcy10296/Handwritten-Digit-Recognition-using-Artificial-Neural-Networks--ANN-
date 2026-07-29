@@ -1,0 +1,6 @@
+mnist_train.csv
+mnist_test.csv
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.png
